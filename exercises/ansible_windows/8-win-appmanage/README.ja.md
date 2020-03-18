@@ -85,7 +85,7 @@ WORKSHOP_PROJECTセクションにカーソルを合わせ、*New Folder* ボタ
 ```yaml
 ---
 - hosts: windows
-  name: his is my Windows application management playbook
+  name: This is my Windows application management playbook
 
   tasks:
   - name: Install Chrome
